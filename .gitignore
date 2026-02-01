@@ -1,0 +1,12 @@
+# Eclipse
+.metadata/
+.settings/
+.project
+.classpath
+
+# Java compiled output
+bin/
+target/
+
+# OS
+.DS_Store
